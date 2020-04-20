@@ -2,7 +2,9 @@
 
 ###
 
-###
+### issue
+
+* [kaplan issue structure](https://www.kaptest.com/study/gre/how-to-structure-the-gre-issue-essay/)
 
 ### argument
 
